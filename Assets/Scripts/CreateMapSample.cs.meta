@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: dbfaa1b9eadc670498a08f2f7f2c14a8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - mExtendedPanel: {instanceID: 0}
+  - mMapSelectedPanel: {instanceID: 0}
+  - mInitButtonPanel: {instanceID: 0}
+  - mMappingButtonPanel: {instanceID: 0}
+  - mSimulatorAddShapeButton: {instanceID: 0}
+  - mMapListPanel: {instanceID: 0}
+  - mExitButton: {instanceID: 0}
+  - mActivateDesButton: {instanceID: 0}
+  - mListElement: {instanceID: 0}
+  - mListContentParent: {instanceID: 0}
+  - mToggleGroup: {instanceID: 0}
+  - mRadiusSlider: {instanceID: 0}
+  - mRadiusLabel: {instanceID: 0}
+  - MapnameInputPopUp: {instanceID: 0}
+  - DropdownList: {instanceID: 0}
+  - statusText: {instanceID: 0}
+  - waitPopUp: {instanceID: 0}
+  - scanPopup: {instanceID: 0}
+  - selectDesPopUp: {instanceID: 0}
+  - navController: {instanceID: 0}
+  - destination: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
